@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="PandaTasks"
-        android:name="${applicationName}"
+        android:name="Panda Tasks App"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
